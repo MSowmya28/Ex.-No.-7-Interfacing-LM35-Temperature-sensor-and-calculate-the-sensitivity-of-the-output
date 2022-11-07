@@ -243,6 +243,7 @@ int main()
 # Output screen shots :
 ![output](./micro7.1.PNG)
 ![output](./micro7.2.PNG)
+![output](./tempgra.PNG)
 # Result :
 Temperature sensor LM35 is interfaced to LPC2148 and its output is measured 
 
